@@ -3,6 +3,7 @@
 #include <stdlib.h>
 
 
+
 float integral(float a,float b){
     float r=0;
     while(a<=b){
